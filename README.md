@@ -29,7 +29,7 @@ docker compose up
 ---
 if you follow the command, you can test your server on http://localhost:4000/api/user
 
-## docker hub [url](https://hub.docker.com/repository/docker/noah0316/madagascar-server)
+## docker hub [url](https://hub.docker.com/r/noah0316/madagascar-server)
 
 
 
