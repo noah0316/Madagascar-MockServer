@@ -1,0 +1,12 @@
+version: '3'
+services:
+  app:
+    container_name: madagascar-server
+    image: noah0316/madagascar-server
+    build:
+      context: .
+      target: development
+    volumes:
+      - ./src:/app/src
+    ports:
+      - 4000:4000
