@@ -1,0 +1,58 @@
+module.exports = [
+  {
+    id: 1,
+    name: "후릐",
+    role: "클럽장",
+    password: "123456",
+    email: "iwpow0307@gmail.com",
+  },
+  {
+    id: 2,
+    name: "듀나",
+    role: "팀플수장",
+    password: "qwerty",
+    email: "tlsdbsdk05250@gmail.com",
+  },
+  {
+    id: 3,
+    name: "태끠",
+    role: "노션장",
+    password: "password",
+    email: "taehyk528@gmail.com",
+  },
+  {
+    id: 4,
+    name: "킴씨",
+    role: "은행장",
+    password: "password",
+    email: "kimhyesooo@sookmyung.ac.kr",
+  },
+  {
+    id: 5,
+    name: "프송",
+    role: "명예펭윙",
+    password: "password",
+    email: "i.colours@gmail.com",
+  },
+  {
+    id: 6,
+    name: "쏘카잍",
+    role: "명예펭윙",
+    password: "password",
+    email: "gimsoyeon52@gmail.com",
+  },
+  {
+    id: 7,
+    name: "삼준초이",
+    role: "명예펭윙",
+    password: "password",
+    email: "choi990406@gmail.com",
+  },
+  {
+    id: 8,
+    name: "엔피싀홍",
+    role: "명예펭윙",
+    password: "password",
+    email: "dev.noah0316@gmail.com",
+  },
+];
