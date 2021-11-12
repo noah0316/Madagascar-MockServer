@@ -11,7 +11,7 @@
 docker pull noah0316/madagascar-server:1.0.0
 ```
 ```
-docker run -p 4000:4000 noah0316/madagascar-server
+docker run -p 4000:4000 noah0316/madagascar-server:1.0.0
 ```
 
 ## OR Clone this repo
